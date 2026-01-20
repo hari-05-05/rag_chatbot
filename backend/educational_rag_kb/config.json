@@ -1,0 +1,6 @@
+{
+  "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "num_chunks": 613,
+  "created_at": "2025-10-04T18:12:11.045880"
+}
